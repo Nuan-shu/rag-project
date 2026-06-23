@@ -1,5 +1,4 @@
 .env
 venv/
 chroma_data/
-__pycache__/
-*.pyc
+pycache/
